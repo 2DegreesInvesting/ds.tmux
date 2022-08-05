@@ -1,0 +1,50 @@
+
+## Introduction to [`tmux`](https://tmuxcheatsheet.com/)
+
+The goal of this meetup is to introduce you to
+[`tmux`](https://en.wikipedia.org/wiki/Tmux).
+
+## Who is the audience?
+
+Anyone who wants to efficient manage multiple terminal processes,
+specially on a the cloud, or peer program with a remote colleague from a
+terminal.
+
+## Why is this important?
+
+If you work on your local computer and by yourself, you may not need any
+special program to manage multiple terminal processes – you can open,
+move, and close terminal windows like you do with any other program
+using the graphical interface that your OS provides.
+
+But if you work on a remote server, with no graphical interface but only
+a command line, then you need `tmux`.
+
+## Syllabus
+
+This one-session meetup helps you unserstand `tmux` by comparing it with
+how you manage multiple programs using the graphical user inerface that
+your OS provides.
+
+Objectives:
+
+-   Manage multiple terminals as you manage multiple windows in your
+    laptop;
+-   Easily detach and re-attach long-running processes from a terminal;
+-   Work with a remote colleague simultaneously on the same terminal
+    process.
+
+## Resources
+
+-   YouTube [playlist](https://bit.ly/ds-incubator-videos).
+-   The
+    [ds-incubator](https://github.com/2DegreesInvesting/ds-incubator#ds-incubator)
+    project.
+-   [Ideas](https://bit.ly/dsi-ideas) for future meetups.
+-   <https://tmuxcheatsheet.com/>
+
+## Thanks
+
+Thanks [AlexAxthelm](https://github.com/AlexAxthelm). This meetup is my
+(Mauro’s) version of a meetup led by Alex – which unfortunately I (Maro)
+failed to record.
